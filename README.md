@@ -24,6 +24,7 @@ Display your 150mm photolithography masks in style with the Litho Light!
 * The housing is 3D printed from this [CAD](https://cad.onshape.com/documents/ff92790bfef612a72b209e99/w/bc7fef391c16d03a85d640ae/e/9dec6515afcd61895a9b9336?renderMode=0&uiState=669f760565e493510a9beafd).
     * The [main housing STL](stl/housing.stl) (30% infill, black PLA)
     * The [diffuser bezel STL](stl/bezel.stl) (15% infill, black PLA)
+* The diffusor is 2 sheets of tracing paper held in place with the bezel.
 
 ![usb cable](images/usb.png)
 

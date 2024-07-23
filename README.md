@@ -31,6 +31,6 @@ Display your 150mm photolithography masks in style with the Litho Light!
 ### License & Attribution
 
 * Thanks to [Adam Zeloof](https://adam.zeloof.xyz/) for assistance with the CAD.
-* Thanks to [IHP](https://www.ihp-microelectronics.com/) for the mask.
+* Thanks to [IHP](https://www.ihp-microelectronics.com/) for the mask. Watch this to [find out more about how masks are used](https://www.youtube.com/watch?v=aBDJQ9NYTEU) to create microchips.
 * This project is licensed under the [Creative Commons Attribution Sharealike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 * [Photo gallery](https://photos.app.goo.gl/EAQCseDm1kts5c8Q8)

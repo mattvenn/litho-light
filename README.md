@@ -1,6 +1,6 @@
 ### Litho Light
 
-Display your 150mm photolithography masks in style with the Litho Light!
+Display your 150mm photolithography masks in style with the Litho Light! [Watch the video here](https://www.youtube.com/watch?v=PbzwKpNnM3Q).
 
 ![Litho Light](images/litho_light.png)
 
